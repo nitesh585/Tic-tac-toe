@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="TickTack.jnlp">
+  <information>
+    <title>TickTack</title>
+    <vendor>nitesh</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="TickTack.jar" size="6410979" download="eager" />
+    <jar href="lib/controlsfx-8.40.14.jar" size="1215643" download="eager" />
+    <jar href="lib/jfoenix-8.0.1.jar" size="2405715" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="TickTack" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ticktack.TickTack"  name="TickTack" />
+  <update check="always"/>
+</jnlp>
