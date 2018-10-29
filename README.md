@@ -1,2 +1,2 @@
 # Tic-tac-toe
-[download this ](TickTack/dist/TickTack.jar)
+<a href="TickTack/dist/TictTack.jar" download = "TickTack.jar" >Download</a<
