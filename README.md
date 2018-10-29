@@ -1,2 +1,2 @@
 # Tic-tac-toe
-[download](files/TickTack.jar)
+[download this ](TickTack/dist/TickTack.jar)
